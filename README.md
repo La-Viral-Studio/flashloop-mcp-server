@@ -4,6 +4,8 @@
 
 # Flashloop MCP server
 
+[![MCP Badge](https://lobehub.com/badge/mcp/la-viral-studio-flashloop-mcp-server)](https://lobehub.com/mcp/la-viral-studio-flashloop-mcp-server)
+
 Create AI videos, images and voiceovers from your AI assistant with your [Flashloop](https://www.flashloop.ai) account.
 
 Flashloop is a hosted (remote) MCP server. There is nothing to install or run: add the URL below to any MCP client
