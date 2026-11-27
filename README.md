@@ -5,6 +5,7 @@
 # Flashloop MCP server
 
 [![MCP Badge](https://lobehub.com/badge/mcp/la-viral-studio-flashloop-mcp-server)](https://lobehub.com/mcp/la-viral-studio-flashloop-mcp-server)
+[![M8ven Score](https://m8ven.ai/badge/mcp/la-viral-studio-flashloop-mcp-server-d6nxp2?v=389f7a653f7cb465311870c18f6c4fa6)](https://m8ven.ai/mcp/la-viral-studio-flashloop-mcp-server-d6nxp2?s=readme)
 
 Create AI videos, images and voiceovers from your AI assistant with your [Flashloop](https://www.flashloop.ai) account.
 
